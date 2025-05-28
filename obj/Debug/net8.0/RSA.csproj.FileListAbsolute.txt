@@ -1,0 +1,14 @@
+/mnt/c/Users/Admin/Desktop/RSA/bin/Debug/net8.0/RSA
+/mnt/c/Users/Admin/Desktop/RSA/bin/Debug/net8.0/RSA.deps.json
+/mnt/c/Users/Admin/Desktop/RSA/bin/Debug/net8.0/RSA.runtimeconfig.json
+/mnt/c/Users/Admin/Desktop/RSA/bin/Debug/net8.0/RSA.dll
+/mnt/c/Users/Admin/Desktop/RSA/bin/Debug/net8.0/RSA.pdb
+/mnt/c/Users/Admin/Desktop/RSA/obj/Debug/net8.0/RSA.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/Admin/Desktop/RSA/obj/Debug/net8.0/RSA.AssemblyInfoInputs.cache
+/mnt/c/Users/Admin/Desktop/RSA/obj/Debug/net8.0/RSA.AssemblyInfo.cs
+/mnt/c/Users/Admin/Desktop/RSA/obj/Debug/net8.0/RSA.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Admin/Desktop/RSA/obj/Debug/net8.0/RSA.dll
+/mnt/c/Users/Admin/Desktop/RSA/obj/Debug/net8.0/refint/RSA.dll
+/mnt/c/Users/Admin/Desktop/RSA/obj/Debug/net8.0/RSA.pdb
+/mnt/c/Users/Admin/Desktop/RSA/obj/Debug/net8.0/RSA.genruntimeconfig.cache
+/mnt/c/Users/Admin/Desktop/RSA/obj/Debug/net8.0/ref/RSA.dll
