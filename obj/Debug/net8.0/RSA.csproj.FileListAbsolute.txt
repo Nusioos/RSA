@@ -12,3 +12,4 @@
 /mnt/c/Users/Admin/Desktop/RSA/obj/Debug/net8.0/RSA.pdb
 /mnt/c/Users/Admin/Desktop/RSA/obj/Debug/net8.0/RSA.genruntimeconfig.cache
 /mnt/c/Users/Admin/Desktop/RSA/obj/Debug/net8.0/ref/RSA.dll
+/mnt/c/Users/Admin/Desktop/RSA/obj/Debug/net8.0/RSA.sourcelink.json

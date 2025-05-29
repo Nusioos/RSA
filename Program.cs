@@ -138,7 +138,7 @@ public class Program // MAIN
 {
     static void Main(string[] args)
     {
-string test="bastian_cwel";
+string test="Test_kodu";
 Console.WriteLine($"original:{test}");
 RSA postac = new RSA();
 int messege=(int)test[0];
